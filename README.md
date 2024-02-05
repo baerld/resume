@@ -1,7 +1,7 @@
 LILLY BAER
 ========
 
-<img src="/Lab 1IMG_6199.jpg" width='150'>
+<img src="IMG_6199.jpg" width='150'>
 
 #### [Senior Geography Student](https://geo.appstate.edu/)
 
